@@ -31,11 +31,11 @@ Estou em busca da **minha primeira oportunidade de estágio**, pronto para aplic
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JG12311&show_icons=true&locale=pt-br&theme=dracula" alt="Estatísticas do GitHub" width="410" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JG12311I&layout=compact&locale=pt-br&theme=dracula" alt="Linguagens mais usadas" width="370" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JG12311&layout=compact&locale=pt-br&theme=dracula" alt="Linguagens mais usadas" width="370" />
 </p>
 
 ---
 
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO-DO-GITHUB-AQUI&label=VISITANTES+NO+PERFIL&color=6A0DAD&style=flat" alt="Contador de visitas" />
+ <img src="https://komarev.com/ghpvc/?username=JG12311&label=VISITANTES+NO+PERFIL&color=6A0DAD&style=flat" alt="Contador de visitas" />
 </p>
