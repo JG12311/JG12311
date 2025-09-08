@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou João Gabriel Breganon Ferreira</h1>
-<h3 align="center">Um estudante de Engenharia da Computação apaixonado por criar soluções web eficientes e acessíveis.</h3>
+<h3 align="center">Um estudante de Engenharia da Computação interassado por criar soluções web eficientes e acessíveis.</h3>
 
 <p align="center">
  <a href="https://www.linkedin.com/in/joão-gabriel-breganon-ferreira" target="_blank">
