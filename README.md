@@ -1,9 +1,12 @@
 <h1 align="center">Olá 👋, eu sou João Gabriel Breganon Ferreira</h1>
-<h3 align="center">Um estudante de Engenharia da Computação interassado por criar soluções web eficientes e acessíveis.</h3>
+<h3 align="center">Um estudante de Engenharia da Computação interessado por criar soluções web eficientes e acessíveis.</h3>
 
 <p align="center">
  <a href="https://www.linkedin.com/in/joão-gabriel-breganon-ferreira" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+ </a>
+ <a href="https://portfolio-joaobreganon.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio-6A0DAD?style=for-the-badge&logo=briefcase&logoColor=white" alt="Portfólio"/>
  </a>
 </p>
 
